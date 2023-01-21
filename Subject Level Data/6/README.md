@@ -1,0 +1,1 @@
+This subject tried on device and but took it off immediately and refused to continue.

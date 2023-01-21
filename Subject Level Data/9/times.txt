@@ -1,0 +1,6 @@
+TIME_ZONE=US/Eastern
+fitbit_on=2022-08-06 11:54:29
+device_on=2022-08-06 12:00:29
+device_off=2022-08-06 12:04:44
+fitbit_off=2022-08-06 12:05:00
+breaks=[]

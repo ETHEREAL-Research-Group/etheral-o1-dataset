@@ -1,0 +1,6 @@
+TIMEZONE=US/Mountain
+fitbit_on=2022-07-20 16:13:50
+fitbit_off=2022-07-20 16:20:30
+device_on=2022-07-20 16:14:47
+device_off=2022-07-20 16:20:20
+break_times=[]
