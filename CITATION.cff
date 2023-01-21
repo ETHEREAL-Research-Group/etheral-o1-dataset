@@ -1,0 +1,8 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper."
+authors:
+- family-names: "ETHEREAL"
+title: "Human Subject Study Data for Paper: Interactive AR applications for Nonspeaking Autistic People? A Usability Study"
+date-released: 2023-01-20
+url: "https://github.com/Krishnamurthy-AR-Project/ethereal-chi23"
